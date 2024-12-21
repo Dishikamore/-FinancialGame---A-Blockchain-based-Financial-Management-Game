@@ -13,6 +13,8 @@ Once deployed on the Ethereum blockchain, the contract will have a unique addres
 
 ```
 Contract Address: 0x9Ca9B0b18c3292B54dB7c1aE5403957bd30e854F
+![image](https://github.com/user-attachments/assets/6c20bedf-57f6-4b70-9baa-f1c168f4da78)
+
 ```
 ## Project Vision
 The **FinancialGame** aims to provide users with an engaging way to learn financial literacy concepts, including budgeting, saving, and tracking expenses. By interacting with a smart contract, users can better understand how blockchain can be applied to everyday financial management.
